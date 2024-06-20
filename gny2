@@ -24,7 +24,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-b.cf.dmcdn.net/sec2(XOUwX9nEsDiv_DyRkquQ4dkX4WqLZKvvWd6alvThppicfAxno9LMQHzsRubVKgYValnWsmC3_o4dmA5saEPFKqx7isfQTJEWS-5nw03Xu_Q)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(9wsfKYv9DAU8HGKbq1CiUWGhVQPE-zUU0ARS_bTscWULtAngKmp8d26WpPSdtxiIIKGSRzy3Aj6K_x8G7Qq1StMcooaiH06v7m6d6uOyqGo)/dm/3/x7wijay/d/live-2.m3u8#cell=lcfb
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://live-b.cf.dmcdn.net/sec2(obxS5Eymg96A1MCqbFdM_gciU8TLyah8xI-RrcK8Yb1vSKpUz8EUYdM_TftclgeOqXo9mlTEF9MIztw0eRun12kzKtI0I6Xlfdda8N7uBCY)/dm/3/x80ac48/d/live-3.m3u8#cell=lcfb
